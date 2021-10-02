@@ -22,9 +22,9 @@ Mocking up web app with <b>Vitesse</b><sup><em>(speed)</em></sup><br>
 
 - 📦 [Components auto importing](./src/components)
 
-- 🍍 [State Management via Pinia](https://pinia.esm.dev/) (to be removed in favor of Composition API)
+- 🍍 [State Management via Pinia](https://pinia.esm.dev/) ( to be removed in favor of Composition API )
 
-- 🍍 [State Management via Composition API](https://v3.vuejs.org/api/composition-api.html)
+- 🍍 [State Management via Composition API](https://v3.vuejs.org/api/composition-api.html) ( to be implented in favor of Pinia )
 
 - 📑 [Layout system](./src/layouts)
 
@@ -46,9 +46,11 @@ Mocking up web app with <b>Vitesse</b><sup><em>(speed)</em></sup><br>
 
 - 🦔 Critical CSS via [critters](https://github.com/GoogleChromeLabs/critters)
 
-- 🦾 TypeScript, of course
+- 🦾 [TypeScript](https://tyepscriptlang.org), of course
 
-- ☁️ Deploy on Netlify, zero-config
+- ☁️ Deploy on [Netlify](https://www.netlify.com/), zero-config
+
+- 🤖 Builds a [Tauri](https://tauri.studio/) desktop application
 
 <br>
 

@@ -1,7 +1,7 @@
 {
   "name": "vite-tauri-esse",
-  "description": "A boilerplate for Vite, Vue, and Tauri",
   "version": "0.1.0",
+  "description": "A boilerplate for Vite, Vue, and Tauri",
   "displayName": "Vite-tauri-esse",
   "license": "Unlicense",
   "private": true,
@@ -11,7 +11,7 @@
     "clean": "rm -rf node_modules yarn.lock package-lock.json pnpm-lock.yaml *.log",
     "dev": "vite --port 4000 & tauri dev",
     "typecheck": "vue-tsc --noEmit",
-    "lint": "eslint --ignore-pattern 'dist' --ignore-pattern 'src-tauri' \"**/*.{vue,ts,js}\""
+    "lint": "eslint \"**/*.{vue,ts,js,json,jsx,tsx}\""
   },
   "dependencies": {
     "@tauri-apps/api": "^1.0.0-beta.8",
@@ -35,8 +35,8 @@
     "@vitejs/plugin-vue": "^1.9.2",
     "@vue/compiler-sfc": "^3.2.19",
     "@vue/server-renderer": "^3.2.19",
-    "critters": "^0.0.10",
     "concurrently": "^6.3.0",
+    "critters": "^0.0.10",
     "cross-env": "^7.0.3",
     "eslint": "^7.32.0",
     "https-localhost": "^4.7.0",

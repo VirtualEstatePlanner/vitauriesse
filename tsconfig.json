@@ -24,5 +24,5 @@
       "~/*": ["src/*"]
     }
   },
-  "exclude": ["dist", "node_modules", "*.config.ts"]
+  "exclude": ["dist", "node_modules", "*.config.ts", "**/*/pwa.ts"]
 }

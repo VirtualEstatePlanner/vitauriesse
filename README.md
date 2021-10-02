@@ -20,9 +20,7 @@ Mocking up a desktop app with <b>Vitesse</b><sup><em>(speed)</em></sup> in Tauri
 
 - 🌍 [I18n ready](./locales)
 
-- 🍍 [State Management via Pinia](https://pinia.esm.dev/) ( to be removed in favor of Composition API )
-
-- 🍍 [State Management via Composition API](https://v3.vuejs.org/api/composition-api.html) ( to be implented in favor of Pinia )
+- 🍍 [State Management via Pinia](https://pinia.esm.dev/)
 
 - 📲 [PWA](https://github.com/antfu/vite-plugin-pwa)
 

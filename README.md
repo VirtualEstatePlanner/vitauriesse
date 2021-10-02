@@ -3,13 +3,7 @@
 </p>
 
 <p align='center'>
-Mocking up web app with <b>Vitesse</b><sup><em>(speed)</em></sup><br>
-</p>
-
-<br>
-
-<p align='center'>
-<a href="https://vitesse.netlify.app/">Live Demo</a>
+Mocking up a desktop app with <b>Vitesse</b><sup><em>(speed)</em></sup> in Tauri<br>
 </p>
 
 <br>
@@ -22,19 +16,19 @@ Mocking up web app with <b>Vitesse</b><sup><em>(speed)</em></sup><br>
 
 - 📦 [Components auto importing](./src/components)
 
+- 📑 [Layout system](./src/layouts)
+
+- 🌍 [I18n ready](./locales)
+
 - 🍍 [State Management via Pinia](https://pinia.esm.dev/) ( to be removed in favor of Composition API )
 
 - 🍍 [State Management via Composition API](https://v3.vuejs.org/api/composition-api.html) ( to be implented in favor of Pinia )
-
-- 📑 [Layout system](./src/layouts)
 
 - 📲 [PWA](https://github.com/antfu/vite-plugin-pwa)
 
 - 🎨 [Windi CSS](https://github.com/windicss/windicss) - next generation utility-first CSS framework
 
 - 😃 [Use icons from any icon sets, with no compromise](https://github.com/antfu/unplugin-icons)
-
-- 🌍 [I18n ready](./locales)
 
 - 🗒 [Markdown Support](https://github.com/antfu/vite-plugin-md)
 

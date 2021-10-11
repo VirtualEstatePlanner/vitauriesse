@@ -38,7 +38,7 @@
     "concurrently": "^6.3.0",
     "critters": "^0.0.10",
     "cross-env": "^7.0.3",
-    "eslint": "^8.0.0",
+    "eslint": "^7.32.0",
     "https-localhost": "^4.7.0",
     "markdown-it-link-attributes": "^3.0.0",
     "markdown-it-prism": "^2.2.1",
